@@ -50,7 +50,7 @@ maindb = client.bot['main']
 antidb = redis.Redis(host='redis-13256.c92.us-east-1-3.ec2.cloud.redislabs.com', port=13256, password='wbZtgNIjTxSW8J4Hqt4mYRH8n3OIIUuT')
 
 BOT_USERNAME = 'PhoenixchkBot'
-loggp = 1924666696
+loggp = -1001680457581
 waste_cards = [1,2,7,8,9,0]
 banned_bins = open('files/bannedbin.txt', 'r').readlines()
 admins = open('files/admins.txt', 'r').readlines()
